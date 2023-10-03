@@ -5,7 +5,7 @@ Methods used for classification:
 -XGBoost
 -SVM
 of the data in the below link:
-https://archive.ics.uci.edu/ml/datasets/Activity+recognition+using+wearable+physiological+measureme nts
+https://archive.ics.uci.edu/ml/datasets/Activity+recognition+using+wearable+physiological+measurements
 
 All the details of my modeling, and Confusion matrix, Accuracy, Precision, Recall and f- measure for the best result are reported. 
 5-fold cross validation is used and finally the average values of the mentioned measures is also reported.
